@@ -1,0 +1,11 @@
+{
+    "name": "tredisdao",
+    "dependencies": {
+        "superstruct": "^0.5.1",
+        "tpicker": "0.0.2",
+        "underscore": "^1.8.3"
+    },
+    "devDependencies": {
+        "redis-mock": "^0.21.0"
+    }
+}
